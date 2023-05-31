@@ -1,6 +1,6 @@
 # Desafio 02 - Manipulando diretórios
 
-[< Desafio Anterior](./Desafio-01.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-03.md)
+[< Desafio Anterior](./Challenge-01.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-03.md)
 
 ## Descrição
 
