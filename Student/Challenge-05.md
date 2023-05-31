@@ -1,6 +1,6 @@
 # Desafio 05 - Permissões de arquivos padrão
 
-[< Desafio Anterior](./Desafio-04.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-06.md)
+[< Desafio Anterior](./Challenge-04.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-06.md)
 
 ## Descrição
 
