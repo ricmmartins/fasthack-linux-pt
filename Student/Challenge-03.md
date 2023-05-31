@@ -1,6 +1,6 @@
 # Desafio 03 - Manipulação de arquivos
 
-[< Desafio Anterior](./Desafio-02.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-04.md)
+[< Desafio Anterior](./Challenge-02.md) - **[Home](../README.md)** - [Próximo Desafio >](./Challenge-04.md)
 
 ## Descrição
 
