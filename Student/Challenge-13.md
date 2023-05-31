@@ -35,9 +35,9 @@ Alterar a porta SSH padrão reduz o número desses ataques. Portanto, para este 
 
 ## Recursos de Aprendizado
 
-- [How Fail2Ban Works to Protect Services on a Linux Server](https://www.digitalocean.com/community/tutorials/how-fail2ban-works-to-protect-services-on-a-linux-server)
-- [Using Fail2ban to Secure Your Server](https://www.linode.com/docs/guides/using-fail2ban-to-secure-your-server-a-tutorial/)
-- [How to Install and Configure Fail2ban on Ubuntu 20.04](https://linuxize.com/post/install-configure-fail2ban-on-ubuntu-20-04/)
-- [Change SSH Port](https://linuxhandbook.com/change-ssh-port/)
-- [Configure SSH Key based authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
-- [Set up SSH public key authentication to connect to a remote system](https://kb.iu.edu/d/aews#:~:text=The%20corresponding%20public%20key%20will%20be%20generated%20using,characters%2C%20and%20then%20press%20Enter%20or%20Return.%20)
+- [Como o Fail2Ban funciona para proteger serviços em um servidor Linux](https://www.digitalocean.com/community/tutorials/how-fail2ban-works-to-protect-services-on-a-linux-server)
+- [Usando Fail2ban para proteger seu servidor](https://www.linode.com/docs/guides/using-fail2ban-to-secure-your-server-a-tutorial/)
+- [Como instalar e configurar o Fail2ban no Ubuntu 20.04](https://linuxize.com/post/install-configure-fail2ban-on-ubuntu-20-04/)
+- [Alterar porta SSH](https://linuxhandbook.com/change-ssh-port/)
+- [Configurar autenticação baseada em chave SSH em um servidor Linux](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
+- [Configure a autenticação de chave pública SSH para se conectar a um sistema remoto](https://kb.iu.edu/d/aews#:~:text=The%20corresponding%20public%20key%20will%20be%20generated%20using,characters%2C%20and%20then%20press%20Enter%20or%20Return.%20)
