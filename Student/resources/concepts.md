@@ -38,11 +38,11 @@ Abstração de uma identificação para acessar um arquivo. Quando um processo d
 
 Existem 3 descritores de arquivo que mostram como os arquivos podem ser acessados, eles são:
 
-* **Entrada Padrão (stdin)**: A entrada padrão é um fluxo para entrada de texto, vinculado ao teclado. É chamado de Descritor de Arquivo 0.
+* **Entrada Padrão (stdin)**: A entrada padrão é um fluxo para entrada de texto, vinculado ao teclado. É chamado de **Descritor de Arquivo 0**.
 
-* **Saída Padrão (stdout)**: A saída padrão é um fluxo para a saída normal dos programas. Quando um programa é executado com sucesso, ele gera uma saída que é a saída padrão, que está vinculada ao terminal ou a uma janela do terminal. Toda saída gerada pelos comandos é gravada na saída padrão, que é chamada de Descritor de Arquivo 1.
+* **Saída Padrão (stdout)**: A saída padrão é um fluxo para a saída normal dos programas. Quando um programa é executado com sucesso, ele gera uma saída que é a saída padrão, que está vinculada ao terminal ou a uma janela do terminal. Toda saída gerada pelos comandos é gravada na saída padrão, que é chamada de **Descritor de Arquivo 1**.
 
-* **Erro Padrão (stderr)**: O erro padrão também é um fluxo de saída de texto, mas usado para exibir mensagens de erro. Quando um comando falha, ele gera um erro que é exibido pela saída de erro padrão, vinculada ao terminal, e é chamado de Descritor de Arquivo 2.
+* **Erro Padrão (stderr)**: O erro padrão também é um fluxo de saída de texto, mas usado para exibir mensagens de erro. Quando um comando falha, ele gera um erro que é exibido pela saída de erro padrão, vinculada ao terminal, e é chamado de **Descritor de Arquivo 2**.
 
 ### Pipes
 
@@ -55,7 +55,7 @@ Exemplo:
 ls -l /etc | less
 ```
 
-Se mais de dois comandos forem usados com redirecionamento, chamamos a operação resultante de Pipeline.
+Se mais de dois comandos forem usados com redirecionamento, chamamos a operação resultante de **Pipeline**.
 
 ```bash
 ls -l /etc | sort -r | less
@@ -63,7 +63,7 @@ ls -l /etc | sort -r | less
 
 ### Redirecionamentos
 
-O operador de redirecionamento > pode enviar a saída de um comando para um arquivo ou ler de um arquivo.
+O operador de redirecionamento `>` pode enviar a saída de um comando para um arquivo ou ler de um arquivo.
 
 * **Redirecionamento de Saída Padrão**
 
@@ -84,11 +84,11 @@ Em vez de ler informações do teclado, o comando lê de um arquivo.
 
 Redirecionar o arquivo para um comando
 
-cat < /etc/group > groups.txt = O operador com o sinal de menor < é um operador de redirecionamento de entrada, ou seja, o conteúdo do arquivo /etc/groups/ será lido pelo comando cat e, em seguida, será enviado através do operador de redirecionamento de saída > para o arquivo "groups.txt".
+`cat < /etc/group > groups.txt` = O operador com o sinal de menor `<` é um operador de redirecionamento de entrada, ou seja, o conteúdo do arquivo `/etc/groups/` será lido pelo comando cat e, em seguida, será enviado através do operador de redirecionamento de saída `>` para o arquivo "groups.txt".
 
 * **Redirecionamento de Erro Padrão**
 
-Para redirecionar a mensagem de erro de um comando para um arquivo, é necessário informar o Descritor de Arquivo 2 antes do operador de redirecionamento >.
+Para redirecionar a mensagem de erro de um comando para um arquivo, é necessário informar o Descritor de Arquivo 2 antes do operador de redirecionamento `>`.
 
 Exemplo:
 
