@@ -9,13 +9,11 @@ Neste desafio, vamos aprender sobre a manipulação de conteúdo de arquivos e d
 - Exiba as 10 primeiras linhas de `/etc/resolv.conf`
 - Exiba as 5 últimas linhas de `/etc/crontab`
 - Crie um arquivo chamado `count.log` com o seguinte conteúdo:
-
     Um<br>
     Dois<br>
     Três<br>
     Quatro<br>
     Cinco
-
 - Use `cp` para fazer um backup deste arquivo chamado `count.bkp`
 - Use `cat` para fazer um backup deste arquivo, salvando como `cat-count.log`
 - Exiba o conteúdo de `cat-count.log`, com todas as linhas em ordem reversa
