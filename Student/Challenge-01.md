@@ -1,6 +1,6 @@
 # Desafio 01 - Criar uma Máquina Virtual Linux
 
-**[Página inicial](../README.md)** - [Próximo Desafio >](./Desafio-02.md)
+**[Página inicial](../README.md)** - [Próximo Desafio >](./Challenge-02.md)
 
 ## Pré-requisitos 
 
