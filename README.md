@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é um recurso de aprendizado criado para ajudar pessoas interessadas a adquirir habilidades em Linux e entender conceitos básicos de linha de comando usando o Azure para construir e aprender. Porém não está restrito ao uso do Azure e você pode executar estre hackathon em qualquer máquina virtual Linux usando o Ubuntu preferencialmente.
+Este é um recurso de aprendizado criado para ajudar pessoas interessadas a adquirir habilidades em Linux e entender conceitos básicos de linha de comando usando o Azure para construir e aprender. Porém não está restrito ao uso do Azure e você pode executar estre hackathon em qualquer máquina virtual usando o Ubuntu Linux.
 
 <img align="right" src="./Student/resources/images/linuxpenguin.png" width="250"/>
 
