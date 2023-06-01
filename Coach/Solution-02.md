@@ -5,23 +5,23 @@
 ## Notas e Orientações
 1. Exiba seu diretório atual
 
-`aluno@vm01:~$ pwd`
+`student@vm01:~$ pwd`
 
 ```bash
-/casa/aluno
+/home/student
 ```
 
 2. Vá para o diretório pai do diretório atual
 
-`aluno@vm01:~$ cd ..`
+`student@vm01:~$ cd ..`
 
 3. Vá para o diretório raiz
 
-`aluno@vm01:~$ cd /`
+`student@vm01:~$ cd /`
 
 4. Listando o conteúdo do diretório raiz
 
-`aluno@vm01:~$ ls`
+`student@vm01:~$ ls`
 
 ```bash
 bin boot dev etc home lib lib32 lib64 libx32 mídia perdida+encontrada mnt opt proc root run sbin snap srv sys tmp usr var
@@ -29,7 +29,7 @@ bin boot dev etc home lib lib32 lib64 libx32 mídia perdida+encontrada mnt opt p
 
 5. Exibir uma longa lista do diretório raiz
 
-`aluno@vm01:~$ ls -l`
+`student@vm01:~$ ls -l`
 
 ```bash
 total 64
@@ -60,40 +60,40 @@ drwxr-xr-x 13 root root 4096 4 de abril 21:41 var
 
 6. Fique onde está e liste o conteúdo de ~
 
-`aluno@vm01:~$ ls ~`
+`student@vm01:~$ ls ~`
 
 7. Liste todos os arquivos (incluindo arquivos ocultos) em seu diretório pessoal
 
-`aluno@vm01:~$ ls -al ~`
+`student@vm01:~$ ls -al ~`
 
 ```bash
 total 40
-drwxr-xr-x 4 aluno aluno 4096 8 de abril 00:12 .
+drwxr-xr-x 4 student student 4096 8 de abril 00:12 .
 drwxr-xr-x 4 root root 4096 6 de abril 15:06 ..
--rw------- 1 aluno aluno 2201 8 de abril 00:09 .bash_history
--rw-r--r-- 1 aluno aluno 220 25 de fevereiro de 2020 .bash_logout
--rw-r--r-- 1 aluno aluno 3771 25 de fevereiro de 2020 .bashrc
-drwx------ 2 aluno aluno 4096 6 de abril 15:03 .cache
--rw-r--r-- 1 aluno aluno 807 25 de fevereiro de 2020 .profile
-drwx------ 2 aluno aluno 4096 6 de abril 15:02 .ssh
--rw-r--r-- 1 aluno aluno 0 6 de abril 15:05 .sudo_as_admin_successful
--rw------- 1 aluno aluno 786 7 de abril 22:10 .viminfo
--rw-rw-r-- 1 aluno aluno 252 8 de abril 00:01 .wget-hsts
+-rw------- 1 student student 2201 8 de abril 00:09 .bash_history
+-rw-r--r-- 1 student student 220 25 de fevereiro de 2020 .bash_logout
+-rw-r--r-- 1 student student 3771 25 de fevereiro de 2020 .bashrc
+drwx------ 2 student student 4096 6 de abril 15:03 .cache
+-rw-r--r-- 1 student student 807 25 de fevereiro de 2020 .profile
+drwx------ 2 student student 4096 6 de abril 15:02 .ssh
+-rw-r--r-- 1 student student 0 6 de abril 15:05 .sudo_as_admin_successful
+-rw------- 1 student student 786 7 de abril 22:10 .viminfo
+-rw-rw-r-- 1 student student 252 8 de abril 00:01 .wget-hsts
 ```
 
 8. Use um único comando para criar a seguinte árvore de diretórios `~/folder1/folder2/folder3` (folder3 é um subdiretório da pasta2 e folder2 é um subdiretório da pasta1)
 
-`aluno@vm01:~$ mkdir -p ~/pasta1/pasta2/pasta3`
+`student@vm01:~$ mkdir -p ~/pasta1/pasta2/pasta3`
 
 9. Liste recursivamente o conteúdo do seu ~
 
-`aluno@vm01:~$ ls -R`
+`student@vm01:~$ ls -R`
 
 ```bash
-/casa/aluno:
+/home/student:
 dir1
 
-/home/aluno/dir1:
+/home/student/dir1:
 dir2
 
 /home/student/dir1/dir2:
@@ -107,10 +107,10 @@ dir3
 `student@vm01:~$ find ~ -type d`
 
 ```bash
-/casa/aluno
-/home/aluno/.cache
-/home/aluno/.ssh
-/home/aluno/dir1
+/home/student
+/home/student/.cache
+/home/student/.ssh
+/home/student/dir1
 /home/student/dir1/dir2
 /home/student/dir1/dir2/dir3
 ```
