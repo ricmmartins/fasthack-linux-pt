@@ -96,7 +96,7 @@ Quando alguém se refere a um desses três termos no contexto do Linux, geralmen
 
 ## Guia do Instrutor
 
-No diretorio [coach](./Coach/) estão as orientações para caso você esteja executando o Hackathon em um evento e seja um instrutor, assom como também estão as soluções para os desafios propostos. Se você está praticando o Hackathon como estudante, não se engane olhando para as soluções durante o hack! Vá aprender alguma coisa. :)
+No diretorio [coach](./Coach/) estão as orientações para caso você esteja executando o Hackathon em um evento e seja um instrutor, assim como também estão as soluções para os desafios propostos. Se você está praticando o Hackathon como estudante, não se engane olhando para as soluções durante o hack! Vá aprender alguma coisa. :)
 
 ## Contribuições
 Contribuições na forma de erros, solicitações de recursos e PRs são sempre bem-vindas. Siga estas etapas antes de enviar um PR:
