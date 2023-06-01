@@ -5,7 +5,7 @@
 Este é um recurso de aprendizado criado para ajudar pessoas interessadas a adquirir habilidades em Linux e entender conceitos básicos de linha de comando usando o Azure para construir e aprender.
 <img align="right" src="./Student/resources/images/linuxpenguin.png" width="250"/>
 
-Nota: Este Hackathon foi incorporado ao Microsoft What The Hack, como o 1º "Hackathon" Linux da Microsoft! Saiba mais em [http://aka.ms/wth](http://aka.ms/wth)
+> Nota: Este Hackathon foi incorporado ao Microsoft What The Hack, como o 1º "Hackathon" Linux da Microsoft! Saiba mais em [http://aka.ms/wth](http://aka.ms/wth)
 
 ## História do Linux
 
