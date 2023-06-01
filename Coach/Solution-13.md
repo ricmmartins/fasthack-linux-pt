@@ -210,8 +210,6 @@ Agora precisamos copiar a chave pública SSH para o servidor. A maneira mais sim
 
 _Observe que a porta 2222 é usada, pois alteramos de 22 para 2222 anteriormente_
 
-_Please note that the port 2222 is used since we changed from 22 to 2222 previously_
-
 ```bash
 /usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/user/.ssh/id_rsa.pub"
 /usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
@@ -221,8 +219,7 @@ user@20.3.122.121's password:
 Number of key(s) added: 1
 ```
 
-Now try logging into the machine, with:  "ssh -p '2222' 'user@20.3.122.121'"
-and check to make sure that only the key(s) you wanted were added.
+Agora tente logar na máquina, com: "ssh -p '2222' 'user@20.3.122.121'" e certifique-se de que apenas a(s) chave(s) desejada(s) foram adicionadas.
 
 _Por favor, note que se sua chave privada ssh foi salva em outro local diferente do padrão /home/<user>/.ssh/id_rsa, você terá que especificar para a conexão como ssh -p '2222' 'user@20.3.122.121 -i <path.of.your.private.ssh.key>'_
 
