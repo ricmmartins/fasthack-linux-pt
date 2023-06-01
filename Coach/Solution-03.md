@@ -39,7 +39,7 @@
 /var/opt/microsoft/auoms/auomscollect.lock
 ```
 
-2. Mostrar o tipo de arquivo de `/usr/bin/htop`, `/etc/passwd` e `/usr/bin/passwd``
+2. Mostrar o tipo de arquivo de `/usr/bin/htop`, `/etc/passwd` e `/usr/bin/passwd`
 
 `student@vm01:~$ file /usr/bin/htop /etc/passwd /usr/bin/passwd`
 
