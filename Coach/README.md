@@ -1,9 +1,9 @@
-# What The Hack - Fundamentos do Linux - Guia do Coach
+# Hackathon - Fundamentos do Linux - Guia do Instrutor
 
 ## Introdução
-Bem-vindo ao guia do treinador para o Linux Fundamentals Hackathon. Aqui você encontrará links para orientações específicas para treinadores para cada um dos desafios.
+Bem-vindo ao guia do instrutor para o Linux Hackathon. Aqui você encontrará links para orientações específicas para os instrutores para cada um dos desafios.
 
-**NOTA:** Se você é um participante do Hackathon, este é o guia de respostas. Não se engane olhando para eles durante o hack! Vá aprender alguma coisa. :)
+> **NOTA:** Se você é um participante do Hackathon, este é o guia de respostas. Não se engane olhando para eles durante o hack! Vá aprender alguma coisa. :)
 
 ## Guias do treinador
 * Desafio 01: **[Criar uma Máquina Virtual Linux](../Coach/Solution-01.md)**
@@ -35,15 +35,11 @@ Bem-vindo ao guia do treinador para o Linux Fundamentals Hackathon. Aqui você e
 * Desafio 14: **[Running Containers](../Coach/Solution-14.md)**
    - Seu objetivo neste desafio será criar uma imagem de contêiner a partir de um aplicativo de amostra e executá-la usando o Docker.
 
-## Pré-requisitos do treinador
+## Pré-requisitos do instrutor
 
-Este hack tem pré-requisitos que um treinador é responsável por entender e/ou configurar ANTES de hospedar um evento.
+Este hack tem pré-requisitos que um intrutor seja responsável por organizar o evento e as etapas comuns de preparação que um isntrutor precisa fazer ANTES do evento.
 
-O guia cobre as etapas comuns de preparação que um treinador precisa fazer antes do evento.
-
-### Recursos do aluno
-
-Antes do hack, é responsabilidade do Coach garantir que os alunos possam acessar o conteúdo da pasta \`/Student/Resources\`.
+Antes do hack, é responsabilidade do Instrutor garantir que os alunos possam acessar o conteúdo da pasta `/Student/Resources`.
 
 ## Requisitos do Azure
 
@@ -58,9 +54,9 @@ Esse hack exige que os alunos tenham acesso a uma assinatura do Azure, onde pode
 
 ## Conteúdo do Repositório
 
-- `./Coach/Soluções`
-   - Arquivos de solução com respostas de exemplo concluídas para um desafio
-- `./Estudante`
-   - Guia do Desafio do Aluno
-- `./Aluno/Recursos`
-   - Arquivos de recursos, código de amostra, scripts, etc. destinados a serem fornecidos aos alunos. (Deve ser embalado pelo treinador e entregue aos alunos no início do evento)
+- `./Coach/`
+   - Arquivos de soluções com respostas de exemplo concluídas para os desafios
+- `./Student`
+   - Guia dos Desafios do Alunos
+- `./Student/resources`
+   - Arquivos de recursos, código de amostra, scripts, etc. destinados a serem fornecidos aos alunos. (Deve ser baixado pelo isntrutor e entregue aos alunos no início do evento)
