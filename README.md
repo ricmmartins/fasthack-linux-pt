@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Este é um recurso de aprendizado criado para ajudar pessoas interessadas a adquirir habilidades em Linux e entender conceitos básicos de linha de comando usando o Azure para construir e aprender.
+Este é um recurso de aprendizado criado para ajudar pessoas interessadas a adquirir habilidades em Linux e entender conceitos básicos de linha de comando usando o Azure para construir e aprender. Porém não está restrito ao uso do Azure e você pode executar estre hackathon em qualquer máquina virtual Linux usando o Ubuntu preferencialmente.
+
 <img align="right" src="./Student/resources/images/linuxpenguin.png" width="250"/>
 
 > Nota: Este Hackathon foi incorporado ao Microsoft What The Hack, como o 1º "Hackathon" Linux da Microsoft! Saiba mais em [http://aka.ms/wth](http://aka.ms/wth)
@@ -64,7 +65,7 @@ Com exceção do desafio 01, que resulta em uma Máquina Virtual Linux necessár
   - Seu objetivo neste desafio será implantar um contêiner Nginx e acessá-lo. Se você quiser ir mais a fundo, há outra opção de implantar uma aplicação PHP simples.
 
 ## Pré-requisitos
-- Sua própria assinatura do Azure com acesso de colaborador para o Desafio 01 ou acesso de colaborador a uma Máquina Virtual Azure pré-criada para todos os outros desafios.
+- Para rodar este hackathon no Azure e utilizar o Azure Cloud Shell, você irá precisar de uma assinatura do Azure com acesso de colaborador para o Desafio 01 ou acesso de colaborador a uma Máquina Virtual Azure pré-criada para todos os outros desafios. Para executar este hackathon em qualquer outro provedor de nuvem ou mesmo localmente, você precisa apenas de uma máquina virtual com o Ubuntu Linux.
 - Acesso a um terminal. Os termos "terminal", "shell" e "interface de linha de comando" são frequentemente usados ​​de forma intercambiável, mas existem diferenças sutis entre eles:
 
 	* Um terminal é um ambiente de entrada e saída que apresenta uma janela somente de texto executando um shell.
