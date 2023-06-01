@@ -221,7 +221,7 @@ Number of key(s) added: 1
 
 Agora tente logar na máquina, com: "ssh -p '2222' 'user@20.3.122.121'" e certifique-se de que apenas a(s) chave(s) desejada(s) foram adicionadas.
 
-_Por favor, note que se sua chave privada ssh foi salva em outro local diferente do padrão /home/<user>/.ssh/id_rsa, você terá que especificar para a conexão como ssh -p '2222' 'user@20.3.122.121 -i <path.of.your.private.ssh.key>'_
+_Por favor, note que se sua chave privada ssh foi salva em outro local diferente do padrão /home/'<user>'/.ssh/id_rsa, você terá que especificar para a conexão como ssh -p '2222' 'user@20.3.122.121 -i <caminho.da.sua.chave.ssh.privada>'_
 
 Em seguida, desative a autenticação de senha no servidor:
   
