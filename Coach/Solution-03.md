@@ -49,7 +49,7 @@
 /usr/bin/passwd: setuid ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6af93256cb810d90b2f96fc052b05b43b954f5b2, for GNU/Linux 3.2.0, stripped
 ```
 
-3. Vá para o diretório inicial e baixe [azure-linux.svg](https://docs.microsoft.com/en-us/learn/achievements/azure-linux.svg) e [InfographicRC2.pdf](https: //azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf)
+3. Vá para o diretório inicial e baixe [azure-linux.svg](https://docs.microsoft.com/en-us/learn/achievements/azure-linux.svg) e [InfographicRC2.pdf](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf)
 
 `student@vm01:~$ cd ~; wget https://docs.microsoft.com/en-us/learn/achievements/azure-linux.svg`
 
