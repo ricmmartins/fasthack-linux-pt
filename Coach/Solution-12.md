@@ -1,4 +1,4 @@
-# Desafio 12 - Configurando um Servidor Web - Guia do Treinador
+# Desafio 12 - Configurando um Servidor Web - Guia do Coach
 
 [< Solução anterior](./Solution-11.md) - **[Home](./README.md)** - [Próxima solução >](./Solution-13.md)
 
