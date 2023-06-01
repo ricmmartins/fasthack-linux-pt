@@ -1,4 +1,4 @@
-# FastHack - Fundamentos do Linux
+# Hackathon - Fundamentos do Linux
 
 ## Introdução
 
@@ -100,9 +100,6 @@ Contribuições na forma de erros, solicitações de recursos e PRs são sempre 
 * Clone o repositório e crie um branch de tópico.
 * Faça alterações, adicionando novos testes para novas funcionalidades.
 * Envie um PR.
-
-## Feedback
-Por favor, [compartilhe](https://forms.office.com/r/1W73Y1rrxu) sua experiência durante este Linux Hackathon e nos ajude a melhorar.
 
 ## Mostre seu apoio
 Dê uma ⭐️ se este conteúdo foi útil para você!
